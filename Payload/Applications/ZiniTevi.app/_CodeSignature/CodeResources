@@ -2579,7 +2579,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		W1v+Kc7jo/FhaXEXtYzB2rZ3f5M=
+		YovhIReLYwh33wZkYgBG/mwojs0=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -2587,7 +2587,7 @@
 		</data>
 		<key>LaunchScreen.nib</key>
 		<data>
-		ry5TZEhdqRpgSKns5N6SjjUGE/I=
+		xvZwfZnyP56H21pRbTrH5GXsfmI=
 		</data>
 		<key>Model.momd/Model.mom</key>
 		<data>
@@ -2603,19 +2603,19 @@
 		</data>
 		<key>PlugIns/NotificationServiceExtension.appex/Info.plist</key>
 		<data>
-		lWvlaL2czL0JpQHGnH1bMWl4Hew=
+		K8Z32+sladdnFhbPdhTRjvqeK9g=
 		</data>
 		<key>PlugIns/NotificationServiceExtension.appex/NotificationServiceExtension</key>
 		<data>
-		1OicY7/MI7Og1PCzOEl2NVe7yBw=
+		xTHG1I9z3W+Zn4E7JLN8iTF6zS8=
 		</data>
 		<key>PlugIns/NotificationServiceExtension.appex/_CodeSignature/CodeResources</key>
 		<data>
-		FstGzCaEgoIj3YfN97hHfHyKsis=
+		43pf6o6ndmUcLiBQHBW8MrsqgEA=
 		</data>
 		<key>PlugIns/NotificationServiceExtension.appex/embedded.mobileprovision</key>
 		<data>
-		fqdMjqt9wyzRN0vP+4mv6lUyXRI=
+		uEIlCG7Kjz5FgegRTorlK6GUwww=
 		</data>
 		<key>README.md</key>
 		<data>
@@ -2623,7 +2623,7 @@
 		</data>
 		<key>Resources.bundle/Info.plist</key>
 		<data>
-		QXe2ZewN2eMcKuhaO2MmedRXy2Q=
+		c0z6XXdNPMbUR8/d3oD3BYN2kl4=
 		</data>
 		<key>Resources.bundle/default.css</key>
 		<data>
@@ -2644,6 +2644,18 @@
 		<key>Settings.bundle/Subtitle.txt</key>
 		<data>
 		aya/yzvvDi5zFr9fo/So7gtmuC8=
+		</data>
+		<key>Settings.bundle/Trakt_Add_Show.txt</key>
+		<data>
+		q78+wU45nFiHRXDokS2eIV1NrKs=
+		</data>
+		<key>Settings.bundle/Trakt_Movie.txt</key>
+		<data>
+		Org3nQMcyKZfnareIMoXBOkJFeY=
+		</data>
+		<key>Settings.bundle/Trakt_Remove_Show.txt</key>
+		<data>
+		Org3nQMcyKZfnareIMoXBOkJFeY=
 		</data>
 		<key>Settings.bundle/Video.txt</key>
 		<data>
@@ -2696,7 +2708,7 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		lFG8ME0BYoSc1OSiXXyTkFAoVD0=
+		50aknVRweP1N281wXLnAK/DUFSM=
 		</data>
 		<key>parser.py</key>
 		<data>
@@ -7318,11 +7330,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ry5TZEhdqRpgSKns5N6SjjUGE/I=
+			xvZwfZnyP56H21pRbTrH5GXsfmI=
 			</data>
 			<key>hash2</key>
 			<data>
-			pTG3zyZWHVwcw48xNfPKUyZTicKn7pSQYVbJQidnGGY=
+			xTOzziSyC/LF2ZG77qNpK8ykEo4uVa2GtLKSQrLktkI=
 			</data>
 		</dict>
 		<key>Model.momd/Model.mom</key>
@@ -7351,44 +7363,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lWvlaL2czL0JpQHGnH1bMWl4Hew=
+			K8Z32+sladdnFhbPdhTRjvqeK9g=
 			</data>
 			<key>hash2</key>
 			<data>
-			1IhxdRoDSthGvvnOB9BXQJOFk3bvR0PD8eFDD1YcyUw=
+			j3VPVcUWOKtSk4/2koloMbLRo3qKm10ksOTsgZalOOQ=
 			</data>
 		</dict>
 		<key>PlugIns/NotificationServiceExtension.appex/NotificationServiceExtension</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1OicY7/MI7Og1PCzOEl2NVe7yBw=
+			xTHG1I9z3W+Zn4E7JLN8iTF6zS8=
 			</data>
 			<key>hash2</key>
 			<data>
-			47A5g8MM7EcI/DmuN65RcCfT/CPFWjJcmXzv3/+A4sc=
+			KpyjFQAN8UCgsWXTdY3oRivFgTgJD8uy8A4i80dyzCo=
 			</data>
 		</dict>
 		<key>PlugIns/NotificationServiceExtension.appex/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FstGzCaEgoIj3YfN97hHfHyKsis=
+			43pf6o6ndmUcLiBQHBW8MrsqgEA=
 			</data>
 			<key>hash2</key>
 			<data>
-			8uLRX9252/zQ/6CbnbmwejLL3ysa3+zCOb0f8AwFm98=
+			NJji8L6PyPg7Rapr3I6D5BghwGwp3FefvC6ZJ4+OsMs=
 			</data>
 		</dict>
 		<key>PlugIns/NotificationServiceExtension.appex/embedded.mobileprovision</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fqdMjqt9wyzRN0vP+4mv6lUyXRI=
+			uEIlCG7Kjz5FgegRTorlK6GUwww=
 			</data>
 			<key>hash2</key>
 			<data>
-			j5UeZAslcHWvPXvU0+Kbhy+0aDVnCMTL8wuAt21GB8M=
+			m08XbtC51xoqIu/NeimU+B/leOC1D3w3Nup4CUCXxHw=
 			</data>
 		</dict>
 		<key>README.md</key>
@@ -7406,11 +7418,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QXe2ZewN2eMcKuhaO2MmedRXy2Q=
+			c0z6XXdNPMbUR8/d3oD3BYN2kl4=
 			</data>
 			<key>hash2</key>
 			<data>
-			9J2NymKsFxW2BgUvRZQ+Kc0nnznjE15YdpC2KtgKI7U=
+			0VGulVgtMyTXsN/A9JXVPn4jfeie8nCOeqyjHnMoOp4=
 			</data>
 		</dict>
 		<key>Resources.bundle/default.css</key>
@@ -7466,6 +7478,39 @@
 			<key>hash2</key>
 			<data>
 			rdlTbSkJ7kvZZn6mlTZKXEyyCVbrEv0KfVskVxE7WK8=
+			</data>
+		</dict>
+		<key>Settings.bundle/Trakt_Add_Show.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q78+wU45nFiHRXDokS2eIV1NrKs=
+			</data>
+			<key>hash2</key>
+			<data>
+			ODUZPEpf/tsa8tK/AAlXyNdVc7tR/Iz7k5/toZdYcck=
+			</data>
+		</dict>
+		<key>Settings.bundle/Trakt_Movie.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Org3nQMcyKZfnareIMoXBOkJFeY=
+			</data>
+			<key>hash2</key>
+			<data>
+			wcq/sMcbXONfMB7ciWyel/57hPqCuSJ4cC62Gi5YM7I=
+			</data>
+		</dict>
+		<key>Settings.bundle/Trakt_Remove_Show.txt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Org3nQMcyKZfnareIMoXBOkJFeY=
+			</data>
+			<key>hash2</key>
+			<data>
+			wcq/sMcbXONfMB7ciWyel/57hPqCuSJ4cC62Gi5YM7I=
 			</data>
 		</dict>
 		<key>Settings.bundle/Video.txt</key>
@@ -7595,11 +7640,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lFG8ME0BYoSc1OSiXXyTkFAoVD0=
+			50aknVRweP1N281wXLnAK/DUFSM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ORHxW/xVWW2P/O8N8ehkvkbj2+NXjr9iOeUKYllRjQo=
+			BXn9I+kLe+rlan1mjmHsIjzpihrI1NBAlEx3OYV9ZSo=
 			</data>
 		</dict>
 		<key>parser.py</key>
